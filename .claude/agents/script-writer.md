@@ -1,3 +1,4 @@
+
 ---
 name: script-writer
 description: Turns ideas into reels, carousels and captions. Use for scripts, slide beats, captions.
